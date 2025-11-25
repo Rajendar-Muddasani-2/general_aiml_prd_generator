@@ -31,9 +31,6 @@ secrets.yaml
 logs/
 scripts/*.log
 
-# Vector Store (can be regenerated)
-vectorstore/
-
 # OS
 .DS_Store
 Thumbs.db

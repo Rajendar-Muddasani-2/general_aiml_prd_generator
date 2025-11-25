@@ -17,6 +17,7 @@ This system generates comprehensive PRDs for general AI/ML projects including LL
 - ✅ **Status Tracking**: Maintains OPEN/COMPLETED/CONTAMINATED states
 - ✅ **Comprehensive Logging**: Full history in `prd_generation.log`
 - ✅ **File Count Validation**: Ensures generated files match status records
+- ✅ **Pre-built Vectorstore**: Includes clean sample-based vectorstore (50 chunks) for instant start
 
 ## 📁 Repository Structure
 

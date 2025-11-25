@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml022_continual_learning_on_edge`
+# Product Requirements Document (PRD)
+# `Aiml022_Continual_Learning_On_Edge`
 
-Project ID: aiml022_continual_learning_on_edge
+Project ID: Aiml022_Continual_Learning_On_Edge
 Category: General AI/ML – Continual/Online Learning on Edge
 Status: Draft for Review
 Version: 1.0
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml022_continual_learning_on_edge delivers a production-ready platform for continual learning on edge devices (mobile, embedded, gateways). It enables models to adapt to new data distributions in real time without centralizing sensitive data. The system combines resource-aware online learning, rehearsal buffers, drift detection, optional federated learning, and privacy-preserving techniques to update models on-device while maintaining performance guarantees, auditability, and safety controls.
+Aiml022_Continual_Learning_On_Edge delivers a production-ready platform for continual learning on edge devices (mobile, embedded, gateways). It enables models to adapt to new data distributions in real time without centralizing sensitive data. The system combines resource-aware online learning, rehearsal buffers, drift detection, optional federated learning, and privacy-preserving techniques to update models on-device while maintaining performance guarantees, auditability, and safety controls.
 
 ### 1.2 Document Purpose
 Define product requirements for engineering, ML, and product teams to build, deploy, and operate a scalable edge continual learning platform, including features, UX, technical architecture, APIs, security, testing, deployment, and KPIs.

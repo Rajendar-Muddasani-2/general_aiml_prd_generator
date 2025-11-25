@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml023_real_time_feature_store`
+# Product Requirements Document (PRD)
+# `Aiml023_Real_Time_Feature_Store`
 
 Project ID: aiml023  
 Category: AI/ML Platform – Data/Feature Infrastructure  
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml023_real_time_feature_store is a real-time feature store enabling low-latency, high-throughput feature serving for online inference while guaranteeing alignment with offline training datasets. It standardizes feature definitions, orchestrates streaming and batch transformations, manages online/offline storage, and provides APIs, UI, and governance to minimize training–serving skew and data leakage. It empowers data scientists to reuse features across models, accelerates deployment, and ensures production-grade reliability.
+Aiml023_Real_Time_Feature_Store is a real-time feature store enabling low-latency, high-throughput feature serving for online inference while guaranteeing alignment with offline training datasets. It standardizes feature definitions, orchestrates streaming and batch transformations, manages online/offline storage, and provides APIs, UI, and governance to minimize training–serving skew and data leakage. It empowers data scientists to reuse features across models, accelerates deployment, and ensures production-grade reliability.
 
 ### 1.2 Document Purpose
 This PRD defines requirements for building, deploying, and operating a real-time feature store. It covers goals, user personas, functional and non-functional requirements, architecture, data models, APIs, UI/UX, security, performance/scalability, testing, deployment, observability, risks, milestones, KPIs, and glossary.

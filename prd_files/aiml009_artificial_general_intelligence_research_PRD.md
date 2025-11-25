@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml009_artificial_general_intelligence_research`
+# Product Requirements Document (PRD)
+# `Aiml009_Artificial_General_Intelligence_Research`
 
 Project ID: aiml009  
 Category: General AI/ML Research Platform  

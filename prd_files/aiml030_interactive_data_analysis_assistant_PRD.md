@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml030_interactive_data_analysis_assistant`
+# Product Requirements Document (PRD)
+# `Aiml030_Interactive_Data_Analysis_Assistant`
 
-Project ID: AIML-030
+Project ID: Aiml030_Interactive_Data_Analysis_Assistant
 Category: AI/ML – Interactive Analytics Assistant
 Status: Draft for Review
 Version: 1.0
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml030_interactive_data_analysis_assistant is a conversational analytics agent that enables users to explore, analyze, and visualize data using natural language. It orchestrates an LLM-driven planning loop to clarify goals, generate SQL/DataFrame code, run computations in a secure sandbox, produce charts and narratives, and iterate interactively. It connects to files, databases, and object storage, automatically discovers schemas, and grounds its reasoning using retrieval-augmented generation (RAG) over data dictionaries, metric definitions, and prior analyses to reduce errors and hallucinations. The assistant provides robust guardrails, observability, and enterprise-grade security.
+Aiml030_Interactive_Data_Analysis_Assistant is a conversational analytics agent that enables users to explore, analyze, and visualize data using natural language. It orchestrates an LLM-driven planning loop to clarify goals, generate SQL/DataFrame code, run computations in a secure sandbox, produce charts and narratives, and iterate interactively. It connects to files, databases, and object storage, automatically discovers schemas, and grounds its reasoning using retrieval-augmented generation (RAG) over data dictionaries, metric definitions, and prior analyses to reduce errors and hallucinations. The assistant provides robust guardrails, observability, and enterprise-grade security.
 
 ### 1.2 Document Purpose
 This PRD defines objectives, scope, requirements, architecture, data model, APIs, UI/UX, security, performance, testing, deployment, risks, milestones, and success metrics for building and launching the product.
@@ -675,4 +676,4 @@ Performance Optimizations
 - Semantic cache for frequent intents; streaming partial outputs for responsiveness.
 - Pushdown predicates to source DB; vectorized DataFrame ops; data sampling and progressive results.
 
-This PRD specifies the end-to-end requirements, architecture, and delivery plan for aiml030_interactive_data_analysis_assistant to achieve high accuracy, low latency, strong security, and a delightful user experience.
+This PRD specifies the end-to-end requirements, architecture, and delivery plan for Aiml030_Interactive_Data_Analysis_Assistant to achieve high accuracy, low latency, strong security, and a delightful user experience.

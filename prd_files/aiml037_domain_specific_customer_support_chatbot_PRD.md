@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml037_domain_specific_customer_support_chatbot`
+# Product Requirements Document (PRD)
+# `Aiml037_Domain_Specific_Customer_Support_Chatbot`
 
-Project ID: AIML-037
+Project ID: Aiml037_Domain_Specific_Customer_Support_Chatbot
 Category: General AI/ML – NLP, RAG, Conversational AI
 Status: Draft for Review
 Version: v1.0
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml037_domain_specific_customer_support_chatbot is a domain-specific, retrieval-augmented conversational assistant for customer support. It ingests enterprise knowledge (FAQs, manuals, policy docs, past tickets) and provides grounded, multilingual answers with citations, performs account-aware actions (e.g., order lookup, entitlement checks), and escalates to human agents when confidence is low. The system combines hybrid retrieval (BM25 + dense vectors), cross-encoder reranking, policy-compliant generation, and robust observability to deliver high accuracy and low latency at scale.
+Aiml037_Domain_Specific_Customer_Support_Chatbot is a domain-specific, retrieval-augmented conversational assistant for customer support. It ingests enterprise knowledge (FAQs, manuals, policy docs, past tickets) and provides grounded, multilingual answers with citations, performs account-aware actions (e.g., order lookup, entitlement checks), and escalates to human agents when confidence is low. The system combines hybrid retrieval (BM25 + dense vectors), cross-encoder reranking, policy-compliant generation, and robust observability to deliver high accuracy and low latency at scale.
 
 ### 1.2 Document Purpose
 This PRD defines the product vision, requirements, technical architecture, data model, APIs, UI/UX, security, performance, testing, deployment, monitoring, risks, and timelines needed to build and launch the chatbot across web, mobile, and agent tooling.

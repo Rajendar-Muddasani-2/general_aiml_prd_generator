@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml003_prompt_engineering_optimization_platform`
+# Product Requirements Document (PRD)
+# `Aiml003_Prompt_Engineering_Optimization_Platform`
 
-Project ID: AIML-003
+Project ID: Aiml003_Prompt_Engineering_Optimization_Platform
 Category: General AI/ML - Prompt Engineering & Optimization
 Status: Draft for Review
 Version: 1.0.0

@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml041_feature_engineering_leakage_thermal_metric_predictor`
+# Product Requirements Document (PRD)
+# `Aiml041_Feature_Engineering_Leakage_Thermal_Metric_Predictor`
 
-Project ID: AIML-041
+Project ID: Aiml041_Feature_Engineering_Leakage_Thermal_Metric_Predictor
 Category: General AI/ML – Time-series Regression & Feature Engineering
 Status: Draft for Review
 Version: 1.0
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml041_feature_engineering_leakage_thermal_metric_predictor is a machine learning system to predict thermal metrics (e.g., temperature, thermal load, cooling capacity utilization) from multivariate time-series and contextual inputs while explicitly preventing data leakage. The product provides a leakage-safe feature engineering pipeline, model training and selection, probabilistic predictions with uncertainty estimates, explainability, and production-grade serving APIs with monitoring and drift detection. It targets environments like data centers, industrial equipment, HVAC systems, and battery packs where accurate thermal predictions inform control, planning, and safety.
+Aiml041_Feature_Engineering_Leakage_Thermal_Metric_Predictor is a machine learning system to predict thermal metrics (e.g., temperature, thermal load, cooling capacity utilization) from multivariate time-series and contextual inputs while explicitly preventing data leakage. The product provides a leakage-safe feature engineering pipeline, model training and selection, probabilistic predictions with uncertainty estimates, explainability, and production-grade serving APIs with monitoring and drift detection. It targets environments like data centers, industrial equipment, HVAC systems, and battery packs where accurate thermal predictions inform control, planning, and safety.
 
 ### 1.2 Document Purpose
 This PRD defines the scope, requirements, architecture, data model, APIs, UX, performance, security, testing, deployment, monitoring, risks, and milestones for delivering a production-ready, leakage-safe thermal metric prediction platform.

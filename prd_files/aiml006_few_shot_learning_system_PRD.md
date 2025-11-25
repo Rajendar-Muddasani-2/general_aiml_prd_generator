@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # aiml006_few_shot_learning_system
+# Product Requirements Document (PRD)
+# `Aiml006_Few_Shot_Learning_System`
 
-Project ID: AIML-006
+Project ID: Aiml006_Few_Shot_Learning_System
 Category: AI/ML Platform - Few-Shot Learning and In-Context Learning
 Status: Draft for Review
 Version: 1.0
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml006_few_shot_learning_system provides an enterprise-ready platform for few-shot learning across NLP and vision tasks. It enables users to build, evaluate, and deploy in-context learning pipelines with intelligent example retrieval, prompt orchestration, parameter-efficient adaptation, and uncertainty-aware inference. The system integrates vector-based exemplar stores, hybrid retrieval (dense + sparse), schema-constrained outputs, retrieval-augmented generation (RAG) with few-shot exemplars, and metric-learning alternatives (prototypical networks, Siamese encoders, kNN over embeddings) for low-label scenarios.
+Aiml006_Few_Shot_Learning_System provides an enterprise-ready platform for few-shot learning across NLP and vision tasks. It enables users to build, evaluate, and deploy in-context learning pipelines with intelligent example retrieval, prompt orchestration, parameter-efficient adaptation, and uncertainty-aware inference. The system integrates vector-based exemplar stores, hybrid retrieval (dense + sparse), schema-constrained outputs, retrieval-augmented generation (RAG) with few-shot exemplars, and metric-learning alternatives (prototypical networks, Siamese encoders, kNN over embeddings) for low-label scenarios.
 
 ### 1.2 Document Purpose
 Define product scope, requirements, architecture, data models, APIs, UI/UX, security, performance, scalability, testing, deployment, monitoring, risks, timeline, KPIs, and glossary to guide design and implementation.

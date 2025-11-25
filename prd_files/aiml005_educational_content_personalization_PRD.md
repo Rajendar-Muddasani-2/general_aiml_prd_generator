@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml005_educational_content_personalization`
+# Product Requirements Document (PRD)
+# `Aiml005_Educational_Content_Personalization`
 
 Project ID: aiml005  
 Category: General AI/ML – Personalization, Recommender Systems, LLM Adaptation  

@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml015_multi_agent_collaborative_coding_system`
+# Product Requirements Document (PRD)
+# `Aiml015_Multi_Agent_Collaborative_Coding_System`
 
-Project ID: AIML-015
+Project ID: Aiml015_Multi_Agent_Collaborative_Coding_System
 Category: General AI/ML – Multi-Agent Systems for Software Engineering
 Status: Draft for Review
 Version: v1.0
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml015_multi_agent_collaborative_coding_system is a multi-agent AI platform that plans, writes, tests, reviews, and integrates code changes across repositories with human-in-the-loop checkpoints. It uses graph-based orchestration, code-aware retrieval-augmented generation (RAG), tool-augmented reasoning (linters, unit tests, vulnerability scanning), and sandboxed execution to deliver high-quality, auditable patches. The system reduces cycle time for software tasks (bug fixes, refactors, documentation, test authoring) and integrates with existing developer workflows (Git, CI/CD, issue trackers).
+Aiml015_Multi_Agent_Collaborative_Coding_System is a multi-agent AI platform that plans, writes, tests, reviews, and integrates code changes across repositories with human-in-the-loop checkpoints. It uses graph-based orchestration, code-aware retrieval-augmented generation (RAG), tool-augmented reasoning (linters, unit tests, vulnerability scanning), and sandboxed execution to deliver high-quality, auditable patches. The system reduces cycle time for software tasks (bug fixes, refactors, documentation, test authoring) and integrates with existing developer workflows (Git, CI/CD, issue trackers).
 
 ### 1.2 Document Purpose
 This PRD defines product vision, scope, requirements, architecture, data model, APIs, UI/UX, security, performance, scalability, testing, deployment, monitoring, risks, timeline, and KPIs for the initial GA release.

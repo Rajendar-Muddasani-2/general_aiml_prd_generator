@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml020_ai_accelerator_design_tool`
+# Product Requirements Document (PRD)
+# `Aiml020_Ai_Accelerator_Design_Tool`
 
-Project ID: AIML-020
+Project ID: Aiml020_Ai_Accelerator_Design_Tool
 Category: AI/ML Systems, Compiler & AutoML Tooling
 Status: Draft for Review
 Version: 1.0.0
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml020_ai_accelerator_design_tool is a compiler- and AutoML-driven platform that analyzes ML workloads, builds a normalized intermediate representation (IR), predicts performance with learned cost models, auto-schedules kernels, and co-designs model architectures and execution strategies for target runtimes/accelerators. It streamlines model optimization (quantization, pruning, sparsity, low-rank, distillation) and explores Pareto-optimal trade-offs across latency, throughput, accuracy, and memory under real-world constraints, deployable via APIs and a web UI.
+Aiml020_Ai_Accelerator_Design_Tool is a compiler- and AutoML-driven platform that analyzes ML workloads, builds a normalized intermediate representation (IR), predicts performance with learned cost models, auto-schedules kernels, and co-designs model architectures and execution strategies for target runtimes/accelerators. It streamlines model optimization (quantization, pruning, sparsity, low-rank, distillation) and explores Pareto-optimal trade-offs across latency, throughput, accuracy, and memory under real-world constraints, deployable via APIs and a web UI.
 
 ### 1.2 Document Purpose
 Define comprehensive product requirements for engineering, product, QA, and DevOps teams to build and ship the tool with clear scope, users, features, architecture, data, APIs, security, testing, deployment, monitoring, risks, timeline, and KPIs.

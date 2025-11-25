@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml036_bias_detection_and_mitigation`
+# Product Requirements Document (PRD)
+# `Aiml036_Bias_Detection_And_Mitigation`
 
 Project ID: aiml036
 Category: AI/ML – Fairness, Responsible AI, Model Governance

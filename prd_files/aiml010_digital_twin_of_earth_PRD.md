@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml010_digital_twin_of_earth`
+# Product Requirements Document (PRD)
+# `Aiml010_Digital_Twin_Of_Earth`
 
 Project ID: aiml010  
 Category: AI/ML — Geospatial, Forecasting, Simulation  
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml010_digital_twin_of_earth is a cloud-native, AI-augmented digital twin of the Earth that continuously fuses multi-modal observations with hybrid physics–machine-learning models to provide real-time state estimation, forecasting, and what-if scenario simulation. It supports operational decision-making for weather, climate risk, energy, agriculture, disaster response, and policy. The platform features a data fabric based on STAC catalogs, spatiotemporal data cubes (xarray/Zarr), data assimilation (EnKF, 3D/4D-Var, particle filters), neural operators and spatiotemporal transformers, uncertainty quantification, and web APIs with a rich 3D globe interface.
+Aiml010_Digital_Twin_Of_Earth is a cloud-native, AI-augmented digital twin of the Earth that continuously fuses multi-modal observations with hybrid physics–machine-learning models to provide real-time state estimation, forecasting, and what-if scenario simulation. It supports operational decision-making for weather, climate risk, energy, agriculture, disaster response, and policy. The platform features a data fabric based on STAC catalogs, spatiotemporal data cubes (xarray/Zarr), data assimilation (EnKF, 3D/4D-Var, particle filters), neural operators and spatiotemporal transformers, uncertainty quantification, and web APIs with a rich 3D globe interface.
 
 ### 1.2 Document Purpose
 This PRD defines the scope, users, features, system architecture, data model, APIs, UI/UX, security, performance, deployment, and success criteria to guide design and implementation. It is the single source of truth for engineering, data science, product, and operations.

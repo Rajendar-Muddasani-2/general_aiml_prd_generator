@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml008_creative_brainstorming_partner`
+# Product Requirements Document (PRD)
+# `Aiml008_Creative_Brainstorming_Partner`
 
 Project ID: aiml008  
 Category: AI/ML – Generative AI, RAG, UX Productivity  
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml008_creative_brainstorming_partner is an LLM-powered ideation assistant that helps individuals and teams generate, curate, and refine creative ideas. It combines structured prompting (SCAMPER, Six Thinking Hats, TRIZ, Jobs-To-Be-Done), deliberate reasoning (Tree-of-Thought/Graph-of-Thought), and Retrieval-Augmented Generation (RAG) with diversity controls (MMR, clustering) to produce relevant, novel, and on-brief ideas. The product supports divergent and convergent modes, personalized memory, safety guardrails, and structured outputs for downstream ranking and execution.
+Aiml008_Creative_Brainstorming_Partner is an LLM-powered ideation assistant that helps individuals and teams generate, curate, and refine creative ideas. It combines structured prompting (SCAMPER, Six Thinking Hats, TRIZ, Jobs-To-Be-Done), deliberate reasoning (Tree-of-Thought/Graph-of-Thought), and Retrieval-Augmented Generation (RAG) with diversity controls (MMR, clustering) to produce relevant, novel, and on-brief ideas. The product supports divergent and convergent modes, personalized memory, safety guardrails, and structured outputs for downstream ranking and execution.
 
 ### 1.2 Document Purpose
 This PRD outlines the problem space, goals, target users, detailed requirements, system architecture, data models, APIs, UI/UX, security, performance/scalability, testing, deployment, monitoring, risks, timeline, KPIs, and appendices necessary to build and launch the product.

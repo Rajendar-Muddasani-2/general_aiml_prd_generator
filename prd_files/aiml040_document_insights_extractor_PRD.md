@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml040_document_insights_extractor`
+# Product Requirements Document (PRD)
+# `Aiml040_Document_Insights_Extractor`
 
-Project ID: AIML-040
+Project ID: Aiml040_Document_Insights_Extractor
 Category: AI/ML — NLP, Information Extraction, RAG
 Status: Draft for Review
 Version: v1.0
@@ -8,10 +9,10 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml040_document_insights_extractor is a cloud-native AI platform that ingests heterogeneous documents (PDF, DOCX, HTML, images), normalizes and chunks content, builds hybrid lexical+vector indices, and provides APIs/UI to retrieve, summarize, and extract structured insights grounded in source documents. It combines robust document processing, retrieval-augmented generation (RAG), schema-guided information extraction, PII-safe governance, and continuous evaluation to deliver fast, accurate, and explainable insights.
+Aiml040_Document_Insights_Extractor is a cloud-native AI platform that ingests heterogeneous documents (PDF, DOCX, HTML, images), normalizes and chunks content, builds hybrid lexical+vector indices, and provides APIs/UI to retrieve, summarize, and extract structured insights grounded in source documents. It combines robust document processing, retrieval-augmented generation (RAG), schema-guided information extraction, PII-safe governance, and continuous evaluation to deliver fast, accurate, and explainable insights.
 
 ### 1.2 Document Purpose
-This PRD defines product scope, requirements, architecture, data models, APIs, UI/UX, security, performance, testing, deployment, and success metrics to guide engineering, product, and QA through delivery of aiml040_document_insights_extractor.
+This PRD defines product scope, requirements, architecture, data models, APIs, UI/UX, security, performance, testing, deployment, and success metrics to guide engineering, product, and QA through delivery of Aiml040_Document_Insights_Extractor.
 
 ### 1.3 Product Vision
 Enable any knowledge worker to transform unstructured documents into trustworthy, traceable insights within seconds—at scale—through a secure, extensible AI platform integrating state-of-the-art NLP, retrieval, and generation.

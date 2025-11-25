@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml016_autonomous_research_assistant`
+# Product Requirements Document (PRD)
+# `Aiml016_Autonomous_Research_Assistant`
 
-Project ID: AIML-016
+Project ID: Aiml016_Autonomous_Research_Assistant
 Category: AI/ML, NLP, Agentic Systems, RAG
 Status: Draft for Review
 Version: 1.0
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml016_autonomous_research_assistant is an agentic, Retrieval-Augmented Generation (RAG) research assistant that autonomously plans, searches, reads, analyzes, and synthesizes findings from web and document sources. It provides traceable, citation-grounded outputs with evidence maps, contradiction checks, and iterative refinement. The system uses a planner-executor loop with tool calling for web search, scraping, parsing, reranking, and exporting structured deliverables (Markdown/JSON). It targets researchers, analysts, product managers, and data scientists who need high-quality, credible research quickly.
+Aiml016_Autonomous_Research_Assistant is an agentic, Retrieval-Augmented Generation (RAG) research assistant that autonomously plans, searches, reads, analyzes, and synthesizes findings from web and document sources. It provides traceable, citation-grounded outputs with evidence maps, contradiction checks, and iterative refinement. The system uses a planner-executor loop with tool calling for web search, scraping, parsing, reranking, and exporting structured deliverables (Markdown/JSON). It targets researchers, analysts, product managers, and data scientists who need high-quality, credible research quickly.
 
 ### 1.2 Document Purpose
 This PRD defines product scope, requirements, system architecture, data models, APIs, UI/UX, security, performance, deployment, testing, and success metrics to guide design, implementation, and validation.

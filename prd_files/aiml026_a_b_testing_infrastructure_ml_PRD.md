@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # aiml026_a_b_testing_infrastructure_ml
+# Product Requirements Document (PRD)
+# `Aiml026_A_B_Testing_Infrastructure_Ml`
 
 Project ID: aiml026_a_b_testing_infrastructure_ml
 Category: General AI/ML Platform — A/B Testing and Experimentation Infrastructure

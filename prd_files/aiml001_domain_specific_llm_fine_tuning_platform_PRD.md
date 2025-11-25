@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / aiml001_domain_specific_llm_fine_tuning_platform
+# Product Requirements Document (PRD)
+# `Aiml001_Domain_Specific_Llm_Fine_Tuning_Platform`
 
 Project ID: aiml001
 Category: AI/ML Platform

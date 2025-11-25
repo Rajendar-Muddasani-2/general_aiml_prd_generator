@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml007_design_co_creation_tool`
+# Product Requirements Document (PRD)
+# `Aiml007_Design_Co_Creation_Tool`
 
-Project ID: AIML-007  
+Project ID: Aiml007_Design_Co_Creation_Tool  
 Category: AI/ML – Multimodal Design Co-Creation  
 Status: Draft for Review  
 Version: 1.0.0  
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml007_design_co_creation_tool is a multimodal AI co-creation platform that helps product teams rapidly ideate, design, and refine digital interfaces and content. It combines:
+Aiml007_Design_Co_Creation_Tool is a multimodal AI co-creation platform that helps product teams rapidly ideate, design, and refine digital interfaces and content. It combines:
 - LLMs for planning, rationale, and structured outputs (layouts, copy, component trees).
 - Vision models (diffusion/inpainting/ControlNet) for generating and editing wireframes, mockups, and visual assets.
 - Retrieval-augmented generation (RAG) to ground outputs in brand guidelines, design tokens, and component libraries for consistency.
@@ -769,4 +770,4 @@ async def generate(req: GenerateRequest, user=Depends(get_current_user)):
     return plan
 ```
 
-With this PRD, aiml007_design_co_creation_tool defines a robust, safe, and scalable multimodal AI platform for grounded, constraint-aware design co-creation that integrates across modern product workflows.
+With this PRD, Aiml007_Design_Co_Creation_Tool defines a robust, safe, and scalable multimodal AI platform for grounded, constraint-aware design co-creation that integrates across modern product workflows.

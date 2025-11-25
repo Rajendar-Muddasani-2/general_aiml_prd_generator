@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml034_deepfake_detection_system`
+# Product Requirements Document (PRD)
+# `Aiml034_Deepfake_Detection_System`
 
 Project ID: aiml034  
 Category: AI/ML – Computer Vision, Audio, Multimodal  
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml034_deepfake_detection_system is a cloud-native, multimodal AI platform to detect synthetic/manipulated media across image, video, and audio. It combines spatial, temporal, frequency-forensic, and audio models into an ensemble with late fusion and calibrated scoring. It supports real-time streaming inference, batch analysis, explainability overlays, and a human-in-the-loop review workflow. Target users include social platforms, newsrooms, financial institutions, and trust & safety teams.
+Aiml034_Deepfake_Detection_System is a cloud-native, multimodal AI platform to detect synthetic/manipulated media across image, video, and audio. It combines spatial, temporal, frequency-forensic, and audio models into an ensemble with late fusion and calibrated scoring. It supports real-time streaming inference, batch analysis, explainability overlays, and a human-in-the-loop review workflow. Target users include social platforms, newsrooms, financial institutions, and trust & safety teams.
 
 ### 1.2 Document Purpose
 This PRD defines the product requirements, functional and non-functional specifications, architecture, data model, APIs, UI/UX, security, deployment, testing, and success criteria to guide engineering, data science, and product teams through build, validation, and launch.
@@ -646,4 +647,4 @@ async def detect(req: DetectRequest, user=Depends(auth_guard)):
     job_id = enqueue_detection(req, user)
     return {"job_id": job_id, "status": "queued"}
 
-This PRD specifies the complete scope, architecture, and execution plan to deliver aiml034_deepfake_detection_system with high accuracy, low latency, explainability, and robust operations suitable for enterprise-grade deployment.
+This PRD specifies the complete scope, architecture, and execution plan to deliver Aiml034_Deepfake_Detection_System with high accuracy, low latency, explainability, and robust operations suitable for enterprise-grade deployment.

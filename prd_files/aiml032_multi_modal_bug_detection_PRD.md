@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml032_multi_modal_bug_detection`
+# Product Requirements Document (PRD)
+# `Aiml032_Multi_Modal_Bug_Detection`
 
-Project ID: AIML-032
+Project ID: Aiml032_Multi_Modal_Bug_Detection
 Category: General AI/ML – Multimodal Bug Detection and Triage
 Status: Draft for Review
 Version: 1.0
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml032_multi_modal_bug_detection is a multimodal AI system that detects, localizes, and explains software bugs by fusing evidence across source code, logs/stack traces, time-series telemetry, distributed traces, bug reports, and UI screenshots or videos. It uses a hybrid of early/late fusion, cross-attention alignment, and a joint embedding space for retrieval-augmented debugging (RAG). The platform provides APIs, a web UI, and cloud deployment for scalable inference, with privacy-preserving ingestion and continuous learning from user feedback.
+Aiml032_Multi_Modal_Bug_Detection is a multimodal AI system that detects, localizes, and explains software bugs by fusing evidence across source code, logs/stack traces, time-series telemetry, distributed traces, bug reports, and UI screenshots or videos. It uses a hybrid of early/late fusion, cross-attention alignment, and a joint embedding space for retrieval-augmented debugging (RAG). The platform provides APIs, a web UI, and cloud deployment for scalable inference, with privacy-preserving ingestion and continuous learning from user feedback.
 
 ### 1.2 Document Purpose
 Define product scope, goals, requirements, architecture, data model, APIs, UX, security, performance, deployment, monitoring, risks, and milestones to guide engineering, product, and GTM teams.

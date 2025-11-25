@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml043_photo_organizer_similarity`
+# Product Requirements Document (PRD)
+# `Aiml043_Photo_Organizer_Similarity`
 
 Project ID: aiml043
 Category: Computer Vision, Similarity Search, Information Retrieval
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml043_photo_organizer_similarity is a photo organization system that automatically deduplicates, groups, and enables “find similar” search across personal and enterprise photo libraries. It leverages image embeddings, face and scene understanding, perceptual hashing, clustering, and metadata-aware ranking to deliver fast and accurate retrieval. The system combines approximate nearest neighbor (ANN) recall with re-ranking and supports hybrid search across text captions, OCR, and tags.
+Aiml043_Photo_Organizer_Similarity is a photo organization system that automatically deduplicates, groups, and enables “find similar” search across personal and enterprise photo libraries. It leverages image embeddings, face and scene understanding, perceptual hashing, clustering, and metadata-aware ranking to deliver fast and accurate retrieval. The system combines approximate nearest neighbor (ANN) recall with re-ranking and supports hybrid search across text captions, OCR, and tags.
 
 ### 1.2 Document Purpose
 This PRD defines product scope, requirements, architecture, data model, APIs, UI/UX, security, performance, testing, deployment, monitoring, risk, timeline, KPIs, and glossary to guide engineering, design, and product stakeholders from MVP through production.
@@ -717,4 +718,4 @@ Reindex Strategy
 - Dual-read: compare overlap@K, score drift, latency; log deltas.
 - If deltas within SLO, switch alias to vNew; keep old index for 7 days for rollback.
 
-By adhering to this PRD, aiml043_photo_organizer_similarity delivers a robust, scalable, and privacy-conscious system for photo deduplication, grouping, and similarity search, ready for consumer and enterprise adoption.
+By adhering to this PRD, Aiml043_Photo_Organizer_Similarity delivers a robust, scalable, and privacy-conscious system for photo deduplication, grouping, and similarity search, ready for consumer and enterprise adoption.

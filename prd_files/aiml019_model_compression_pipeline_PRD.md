@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml019_model_compression_pipeline`
+# Product Requirements Document (PRD)
+# `Aiml019_Model_Compression_Pipeline`
 
-Project ID: aiml019_model_compression_pipeline
+Project ID: Aiml019_Model_Compression_Pipeline
 Category: AI/ML Platform – Model Optimization & MLOps
 Status: Draft (for Review)
 Version: v1.0
@@ -8,10 +9,10 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml019_model_compression_pipeline is an automated, reproducible pipeline to compress machine learning models for deployment across cloud, edge, and mobile. It orchestrates and validates multiple compression techniques—quantization, pruning, low-rank factorization, weight clustering, knowledge distillation, and architecture optimizations—under accuracy, latency, and size constraints. The system performs multi-objective policy search, provides quantifiable quality/latency tradeoffs, and exports production-ready artifacts for common runtimes.
+Aiml019_Model_Compression_Pipeline is an automated, reproducible pipeline to compress machine learning models for deployment across cloud, edge, and mobile. It orchestrates and validates multiple compression techniques—quantization, pruning, low-rank factorization, weight clustering, knowledge distillation, and architecture optimizations—under accuracy, latency, and size constraints. The system performs multi-objective policy search, provides quantifiable quality/latency tradeoffs, and exports production-ready artifacts for common runtimes.
 
 ### 1.2 Document Purpose
-This PRD defines requirements, scope, stakeholders, architecture, APIs, data model, testing, deployment, and success metrics for delivering aiml019_model_compression_pipeline as a self-serve product for ML engineers, data scientists, MLOps, and application developers.
+This PRD defines requirements, scope, stakeholders, architecture, APIs, data model, testing, deployment, and success metrics for delivering Aiml019_Model_Compression_Pipeline as a self-serve product for ML engineers, data scientists, MLOps, and application developers.
 
 ### 1.3 Product Vision
 Empower teams to ship efficient, affordable, and reliable AI by making model compression turnkey, measurable, and portable—preserving task quality while minimizing cost and latency.

@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml013_video_understanding_summarization`
+# Product Requirements Document (PRD)
+# `Aiml013_Video_Understanding_Summarization`
 
 Project ID: aiml013  
 Category: General AI/ML – Multimodal Video Understanding & Summarization  

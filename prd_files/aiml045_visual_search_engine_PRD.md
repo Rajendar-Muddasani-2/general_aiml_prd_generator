@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml045_visual_search_engine`
+# Product Requirements Document (PRD)
+# `Aiml045_Visual_Search_Engine`
 
 Project ID: aiml045  
 Category: AI/ML - Computer Vision, Information Retrieval, Multimodal  
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml045_visual_search_engine is a cloud-native, multimodal visual search solution that enables users to search, discover, and organize images using either images or text queries. It leverages state-of-the-art multimodal embeddings (e.g., CLIP/OpenCLIP, SigLIP) and approximate nearest neighbor (ANN) indexing (e.g., FAISS HNSW/IVF-PQ, optional Qdrant/Milvus) for scalable, low-latency retrieval. The product targets e-commerce, media libraries, digital asset management, and knowledge platforms, providing object-level search, hybrid sparse+dense retrieval, safety filtering, and re-ranking for high-quality results.
+Aiml045_Visual_Search_Engine is a cloud-native, multimodal visual search solution that enables users to search, discover, and organize images using either images or text queries. It leverages state-of-the-art multimodal embeddings (e.g., CLIP/OpenCLIP, SigLIP) and approximate nearest neighbor (ANN) indexing (e.g., FAISS HNSW/IVF-PQ, optional Qdrant/Milvus) for scalable, low-latency retrieval. The product targets e-commerce, media libraries, digital asset management, and knowledge platforms, providing object-level search, hybrid sparse+dense retrieval, safety filtering, and re-ranking for high-quality results.
 
 ### 1.2 Document Purpose
 This PRD specifies requirements, architecture, algorithms, data model, APIs, UI/UX, security, performance, scalability, testing, deployment, monitoring, risk, and timelines necessary to build and operate the visual search engine from MVP through GA.
@@ -574,7 +575,7 @@ Estimated monthly cloud costs at 10M images, 500 QPS avg:
 - Tenant: Logical isolation unit for multi-tenant systems.
 
 Repository structure
-- aiml045_visual_search_engine/
+- Aiml045_Visual_Search_Engine/
   - README.md
   - notebooks/
     - evaluation.ipynb

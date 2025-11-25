@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml017_intelligent_devops_agent`
+# Product Requirements Document (PRD)
+# `Aiml017_Intelligent_Devops_Agent`
 
-Project ID: AIML-017
+Project ID: Aiml017_Intelligent_Devops_Agent
 Category: AI/ML – Intelligent DevOps/SRE Agent
 Status: Draft for Review
 Version: v1.0
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml017_intelligent_devops_agent is an LLM-driven DevOps/SRE copilot designed to continuously monitor operational signals, answer natural-language operational questions, triage incidents, perform root-cause analysis (RCA), propose or execute safe remediations, and generate postmortem summaries. It integrates with CI/CD, observability platforms, ticketing systems, and ChatOps to enable a plan–act–observe loop with robust guardrails and human-in-the-loop approvals. The system combines Retrieval-Augmented Generation (RAG), tool-augmented multi-agent orchestration, time-series analytics, and policy-driven automation to reduce MTTR, improve reliability, and scale operational excellence.
+Aiml017_Intelligent_Devops_Agent is an LLM-driven DevOps/SRE copilot designed to continuously monitor operational signals, answer natural-language operational questions, triage incidents, perform root-cause analysis (RCA), propose or execute safe remediations, and generate postmortem summaries. It integrates with CI/CD, observability platforms, ticketing systems, and ChatOps to enable a plan–act–observe loop with robust guardrails and human-in-the-loop approvals. The system combines Retrieval-Augmented Generation (RAG), tool-augmented multi-agent orchestration, time-series analytics, and policy-driven automation to reduce MTTR, improve reliability, and scale operational excellence.
 
 ### 1.2 Document Purpose
 This PRD defines scope, requirements, architecture, data model, APIs, UI/UX, security, performance, testing, deployment, monitoring, risks, timeline, and success criteria for building, evaluating, and deploying the intelligent DevOps agent.
@@ -647,7 +648,7 @@ Repository Structure (proposed)
 
 Config Sample (configs/app.yaml)
 app:
-  name: aiml017_intelligent_devops_agent
+  name: Aiml017_Intelligent_Devops_Agent
   env: prod
 llm:
   provider: azure_openai

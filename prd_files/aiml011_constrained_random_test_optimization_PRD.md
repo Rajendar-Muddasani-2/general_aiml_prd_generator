@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml011_constrained_random_test_optimization`
+# Product Requirements Document (PRD)
+# `Aiml011_Constrained_Random_Test_Optimization`
 
 Project ID: aiml011  
 Category: General AI/ML – Test Generation & Optimization  
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml011_constrained_random_test_optimization is an AI/ML platform that intelligently generates, prioritizes, and schedules constrained random test scenarios to maximize coverage, accelerate issue discovery, and reduce execution cost. It blends constraint-aware sampling with reinforcement learning, Bayesian optimization, and diversity maximization to achieve rapid exploration of high-dimensional input spaces under hard/soft constraints. The product provides APIs, a web UI, and cloud deployment for teams to define constraints, measure coverage, and obtain optimized test suggestions in real time.
+Aiml011_Constrained_Random_Test_Optimization is an AI/ML platform that intelligently generates, prioritizes, and schedules constrained random test scenarios to maximize coverage, accelerate issue discovery, and reduce execution cost. It blends constraint-aware sampling with reinforcement learning, Bayesian optimization, and diversity maximization to achieve rapid exploration of high-dimensional input spaces under hard/soft constraints. The product provides APIs, a web UI, and cloud deployment for teams to define constraints, measure coverage, and obtain optimized test suggestions in real time.
 
 ### 1.2 Document Purpose
 This PRD defines the product strategy, user needs, functional and non-functional requirements, technical architecture, data model, API specifications, UI/UX, security, performance, testing, deployment, monitoring, risks, timeline, and success metrics for aiml011.

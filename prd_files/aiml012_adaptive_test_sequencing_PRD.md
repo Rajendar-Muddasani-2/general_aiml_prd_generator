@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml012_adaptive_test_sequencing`
+# Product Requirements Document (PRD)
+# `Aiml012_Adaptive_Test_Sequencing`
 
 Project ID: aiml012  
 Category: AI/ML – Adaptive Assessment and Sequencing  
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml012_adaptive_test_sequencing is an AI-driven engine that dynamically selects the next-best question for a learner during an assessment or practice session. It combines student state modeling (IRT, knowledge tracing) with sequential decision algorithms (contextual bandits, reinforcement learning) and uncertainty-aware stopping rules to reduce test length while maintaining or improving measurement accuracy, engagement, and fairness. The product exposes real-time APIs for adaptive sequencing, admin tooling for item bank and policy configuration, and analytics dashboards for monitoring and evaluation. It is deployable as a cloud-native microservice.
+Aiml012_Adaptive_Test_Sequencing is an AI-driven engine that dynamically selects the next-best question for a learner during an assessment or practice session. It combines student state modeling (IRT, knowledge tracing) with sequential decision algorithms (contextual bandits, reinforcement learning) and uncertainty-aware stopping rules to reduce test length while maintaining or improving measurement accuracy, engagement, and fairness. The product exposes real-time APIs for adaptive sequencing, admin tooling for item bank and policy configuration, and analytics dashboards for monitoring and evaluation. It is deployable as a cloud-native microservice.
 
 ### 1.2 Document Purpose
 This PRD defines the product vision, functional and non-functional requirements, technical architecture, data model, APIs, UI/UX, security, performance, deployment, testing, monitoring, risks, and timelines for delivering the aiml012 adaptive test sequencing system.

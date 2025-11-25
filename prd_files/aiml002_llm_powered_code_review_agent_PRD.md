@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # aiml002_llm_powered_code_review_agent
+# Product Requirements Document (PRD)
+# `Aiml002_Llm_Powered_Code_Review_Agent`
 
 Project ID: aiml002
 Category: AI/ML, NLP, Developer Productivity, Code Intelligence
@@ -10,7 +11,7 @@ Stakeholders: DevX Lead, Security Lead, QA Lead, Infra/DevOps Lead, Data Science
 
 1. Overview
 1.1 Executive Summary
-- aiml002_llm_powered_code_review_agent is an LLM-driven system that automates and augments code review. It combines diff-aware static analysis, retrieval-augmented generation (RAG) over repository context, and multi-agent reasoning to produce structured, high-precision findings and minimal patch suggestions integrated into PR workflows (GitHub, GitLab, Bitbucket).
+- Aiml002_Llm_Powered_Code_Review_Agent is an LLM-driven system that automates and augments code review. It combines diff-aware static analysis, retrieval-augmented generation (RAG) over repository context, and multi-agent reasoning to produce structured, high-precision findings and minimal patch suggestions integrated into PR workflows (GitHub, GitLab, Bitbucket).
 - Key capabilities:
   - Ingest repositories, parse ASTs, symbols, dependency graphs, and tests.
   - Diff-aware context building and code-aware RAG with hybrid retrieval (BM25 + dense vectors + cross-encoder reranking).

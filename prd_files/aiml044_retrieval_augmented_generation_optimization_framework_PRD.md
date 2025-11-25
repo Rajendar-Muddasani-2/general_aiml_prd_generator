@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml044_retrieval_augmented_generation_optimization_framework`
+# Product Requirements Document (PRD)
+# `Aiml044_Retrieval_Augmented_Generation_Optimization_Framework`
 
 Project ID: aiml044
 Category: AI/ML - Retrieval-Augmented Generation (RAG) Optimization
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-The aiml044_retrieval_augmented_generation_optimization_framework is a production-grade framework to optimize retrieval-augmented generation (RAG) systems across accuracy, latency, cost, and safety. It delivers a multi-stage retrieval pipeline (candidate generation → re-ranking → context compression), intelligent query understanding (rewriting, expansion, multi-hop decomposition), hybrid sparse+dense retrieval, advanced context optimization (budgeted packing, deduplication, salience scoring), grounded generation with citations, and comprehensive evaluation/observability. It provides APIs, cloud-ready deployment, and UI tools for data science and engineering teams to build reliable, scalable, and high-quality RAG applications.
+The Aiml044_Retrieval_Augmented_Generation_Optimization_Framework is a production-grade framework to optimize retrieval-augmented generation (RAG) systems across accuracy, latency, cost, and safety. It delivers a multi-stage retrieval pipeline (candidate generation → re-ranking → context compression), intelligent query understanding (rewriting, expansion, multi-hop decomposition), hybrid sparse+dense retrieval, advanced context optimization (budgeted packing, deduplication, salience scoring), grounded generation with citations, and comprehensive evaluation/observability. It provides APIs, cloud-ready deployment, and UI tools for data science and engineering teams to build reliable, scalable, and high-quality RAG applications.
 
 ### 1.2 Document Purpose
 - Define product scope, features, and requirements end-to-end.

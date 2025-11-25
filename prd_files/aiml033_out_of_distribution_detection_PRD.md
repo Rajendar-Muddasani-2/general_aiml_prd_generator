@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / # `aiml033_out_of_distribution_detection`
+# Product Requirements Document (PRD)
+# `Aiml033_Out_Of_Distribution_Detection`
 
-Project ID: AIML-033
+Project ID: Aiml033_Out_Of_Distribution_Detection
 Category: AI/ML — Model Reliability & Safety
 Status: Draft for Review
 Version: 1.0.0
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml033_out_of_distribution_detection is a production-ready platform and SDK for detecting out-of-distribution (OOD) inputs across computer vision, NLP, audio, and tabular ML systems. It provides post-hoc OOD scoring, training-time techniques (Outlier Exposure), calibration and abstention policies, drift monitoring, and routing/guardrails to prevent overconfident incorrect predictions. It exposes REST APIs, a UI for configuration and monitoring, SDKs for Python/JS, and integrations for cloud deployment.
+Aiml033_Out_Of_Distribution_Detection is a production-ready platform and SDK for detecting out-of-distribution (OOD) inputs across computer vision, NLP, audio, and tabular ML systems. It provides post-hoc OOD scoring, training-time techniques (Outlier Exposure), calibration and abstention policies, drift monitoring, and routing/guardrails to prevent overconfident incorrect predictions. It exposes REST APIs, a UI for configuration and monitoring, SDKs for Python/JS, and integrations for cloud deployment.
 
 ### 1.2 Document Purpose
 Define requirements, architecture, APIs, metrics, and delivery plan for an OOD detection solution that integrates with existing ML inference pipelines to increase reliability, reduce risk, and improve user trust.
@@ -490,7 +491,7 @@ Estimated Costs (6 months):
 - PSI/MMD: Population Stability Index / Maximum Mean Discrepancy for drift.
 
 Repository structure
-- aiml033_out_of_distribution_detection/
+- Aiml033_Out_Of_Distribution_Detection/
   - README.md
   - configs/
     - default.yaml

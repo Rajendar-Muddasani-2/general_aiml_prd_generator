@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml028_ai_pair_programmer`
+# Product Requirements Document (PRD)
+# `Aiml028_Ai_Pair_Programmer`
 
 Project ID: aiml028  
 Category: AI/ML – Code Intelligence, Developer Productivity  
@@ -8,10 +9,10 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml028_ai_pair_programmer is an AI-assisted pair programming platform that provides repo-aware code completions, in-editor chat, automated refactoring, code review, test generation, and multi-step fix agents. It uses retrieval-augmented generation (RAG) optimized for code with dual indexing (file and symbol level), code-aware chunking via AST, hybrid search+rereanking, and grammar-guided decoding to output actionable patches and JSON-structured commands. It integrates with IDEs (VS Code, JetBrains), version control, CI, and cloud LLM providers. The goal is to increase developer velocity and code quality while reducing defects, context-switching, and cognitive load.
+Aiml028_Ai_Pair_Programmer is an AI-assisted pair programming platform that provides repo-aware code completions, in-editor chat, automated refactoring, code review, test generation, and multi-step fix agents. It uses retrieval-augmented generation (RAG) optimized for code with dual indexing (file and symbol level), code-aware chunking via AST, hybrid search+rereanking, and grammar-guided decoding to output actionable patches and JSON-structured commands. It integrates with IDEs (VS Code, JetBrains), version control, CI, and cloud LLM providers. The goal is to increase developer velocity and code quality while reducing defects, context-switching, and cognitive load.
 
 ### 1.2 Document Purpose
-This PRD defines scope, requirements, architecture, data model, APIs, UX, security, performance, testing, deployment, and success metrics for aiml028_ai_pair_programmer to align engineering, product, and stakeholders.
+This PRD defines scope, requirements, architecture, data model, APIs, UX, security, performance, testing, deployment, and success metrics for Aiml028_Ai_Pair_Programmer to align engineering, product, and stakeholders.
 
 ### 1.3 Product Vision
 Build a trustworthy, repo-aware AI pair programmer that understands the entire codebase, reasons across files and symbols, and produces grounded, auditable, and safe edits that developers accept with confidence.

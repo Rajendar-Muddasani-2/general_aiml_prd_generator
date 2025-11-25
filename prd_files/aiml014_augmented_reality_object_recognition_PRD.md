@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml014_augmented_reality_object_recognition`
+# Product Requirements Document (PRD)
+# `Aiml014_Augmented_Reality_Object_Recognition`
 
 Project ID: aiml014  
 Category: Computer Vision, AR, On-device ML  

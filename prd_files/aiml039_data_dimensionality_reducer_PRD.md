@@ -1,6 +1,7 @@
-# Product Requirements Document (PRD) / `aiml039_data_dimensionality_reducer`
+# Product Requirements Document (PRD)
+# `Aiml039_Data_Dimensionality_Reducer`
 
-Project ID: aiml039_data_dimensionality_reducer
+Project ID: Aiml039_Data_Dimensionality_Reducer
 Category: AI/ML Infrastructure – Data Preprocessing & Model Optimization
 Status: Draft for Review (Executable PRD)
 Version: 1.0.0
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml039_data_dimensionality_reducer is a modular library and service that learns and applies dimensionality reduction transforms for high-dimensional data (e.g., text embeddings, vectors from vision or audio models, tabular features). It offers linear, manifold, neural, and randomized methods to reduce dimensions for efficiency while preserving structure critical for downstream tasks such as retrieval, clustering, classification, and visualization. It provides APIs, a UI for experimentation, and automated evaluation to guarantee reproducibility, performance, and safety at scale.
+Aiml039_Data_Dimensionality_Reducer is a modular library and service that learns and applies dimensionality reduction transforms for high-dimensional data (e.g., text embeddings, vectors from vision or audio models, tabular features). It offers linear, manifold, neural, and randomized methods to reduce dimensions for efficiency while preserving structure critical for downstream tasks such as retrieval, clustering, classification, and visualization. It provides APIs, a UI for experimentation, and automated evaluation to guarantee reproducibility, performance, and safety at scale.
 
 ### 1.2 Document Purpose
 This PRD defines scope, functionality, technical design, APIs, UI, non-functional requirements, testing, deployment, metrics, and timelines for delivering a production-grade dimensionality reduction platform.
@@ -528,7 +529,7 @@ Estimated Costs (first 3 months):
 - Artifact: Persisted fitted model/transform and metadata
 
 Repository Structure
-- aiml039_data_dimensionality_reducer/
+- Aiml039_Data_Dimensionality_Reducer/
   - README.md
   - pyproject.toml
   - requirements.txt

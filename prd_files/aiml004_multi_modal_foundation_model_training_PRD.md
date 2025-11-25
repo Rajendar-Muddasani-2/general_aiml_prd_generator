@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml004_multi_modal_foundation_model_training`
+# Product Requirements Document (PRD)
+# `Aiml004_Multi_Modal_Foundation_Model_Training`
 
 Project ID: aiml004  
 Category: General AI/ML – Multimodal Foundation Model Training  

@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # aiml021_edge_cloud_collaborative_inference
+# Product Requirements Document (PRD)
+# `Aiml021_Edge_Cloud_Collaborative_Inference`
 
 Project ID: aiml021
 Category: AI/ML Platform – Edge-Cloud Collaborative Inference

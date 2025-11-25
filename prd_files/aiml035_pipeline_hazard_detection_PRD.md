@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # aiml035_pipeline_hazard_detection
+# Product Requirements Document (PRD)
+# `Aiml035_Pipeline_Hazard_Detection`
 
 Project ID: aiml035
 Category: General AI/ML – Multimodal Hazard Detection
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml035_pipeline_hazard_detection delivers an end-to-end multimodal AI/ML system to detect and localize hazards along critical pipeline infrastructure. It fuses streaming time-series sensors (pressure/flow telemetry, acoustic/vibration, temperature, gas concentration) with computer vision (UAV/ground camera feeds, thermal/multispectral imagery) to provide real-time detection, uncertainty-aware alerting, and actionable insights. It supports edge inference for low-latency events, cloud-based analytics, a rule-ML hybrid engine to reduce false alarms, and MLOps for continuous improvement.
+Aiml035_Pipeline_Hazard_Detection delivers an end-to-end multimodal AI/ML system to detect and localize hazards along critical pipeline infrastructure. It fuses streaming time-series sensors (pressure/flow telemetry, acoustic/vibration, temperature, gas concentration) with computer vision (UAV/ground camera feeds, thermal/multispectral imagery) to provide real-time detection, uncertainty-aware alerting, and actionable insights. It supports edge inference for low-latency events, cloud-based analytics, a rule-ML hybrid engine to reduce false alarms, and MLOps for continuous improvement.
 
 ### 1.2 Document Purpose
 Define product scope, requirements, technical architecture, data/model strategy, APIs, UI/UX, security, performance, deployment, and success criteria to guide engineering, data science, and operations through delivery.
@@ -662,4 +663,4 @@ Evaluation Metrics and Reporting
 - Online: Rolling 7/30-day PR-AUC, calibration drift, false alarm rate, TTD distributions.
 - Vision: mAP@0.5, mAP@0.5:0.95; segmentation IoU; thermal-only vs fused comparisons.
 
-This PRD defines the complete scope, architecture, and execution plan for aiml035_pipeline_hazard_detection, focusing on AI/ML, computer vision, NLP-free time-series modeling, multimodal fusion, edge/cloud deployment, robust MLOps, and operator-centric UX to deliver measurable improvements in safety and operational efficiency.
+This PRD defines the complete scope, architecture, and execution plan for Aiml035_Pipeline_Hazard_Detection, focusing on AI/ML, computer vision, NLP-free time-series modeling, multimodal fusion, edge/cloud deployment, robust MLOps, and operator-centric UX to deliver measurable improvements in safety and operational efficiency.

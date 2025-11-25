@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml024_automl_platform_for_enterprise`
+# Product Requirements Document (PRD)
+# `Aiml024_Automl_Platform_For_Enterprise`
 
 Project ID: aiml024  
 Category: General AI/ML – AutoML Platform for Enterprise  

@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # `aiml038_personal_knowledge_base_chatbot`
+# Product Requirements Document (PRD)
+# `Aiml038_Personal_Knowledge_Base_Chatbot`
 
 Project ID: aiml038  
 Category: AI/ML — NLP, RAG, Knowledge Management  
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml038_personal_knowledge_base_chatbot is a Retrieval-Augmented Generation (RAG) chatbot that connects to a user’s personal and organizational knowledge sources (files, notes, cloud drives, knowledge wikis, bookmarks) and provides grounded, conversational answers with citations. It supports ingestion via connectors, token-aware chunking, hybrid dense+sparse retrieval with reranking, multilingual embeddings, and configurable LLMs. The product targets knowledge workers, teams, and developers who need accurate, explainable, and secure AI-driven answers from their private content.
+Aiml038_Personal_Knowledge_Base_Chatbot is a Retrieval-Augmented Generation (RAG) chatbot that connects to a user’s personal and organizational knowledge sources (files, notes, cloud drives, knowledge wikis, bookmarks) and provides grounded, conversational answers with citations. It supports ingestion via connectors, token-aware chunking, hybrid dense+sparse retrieval with reranking, multilingual embeddings, and configurable LLMs. The product targets knowledge workers, teams, and developers who need accurate, explainable, and secure AI-driven answers from their private content.
 
 ### 1.2 Document Purpose
 This PRD defines objectives, scope, requirements, architecture, data model, APIs, UI/UX, security, performance, testing, deployment, monitoring, risk, timeline, KPIs, and references necessary to design, build, evaluate, deploy, and operate the chatbot.
@@ -672,4 +673,4 @@ Performance/Cost Controls
 - Batch upserts to vector DB; nightly compactions
 - Rate limits: 60 req/min per API key (free), 300 req/min (pro), custom (enterprise)
 
-This PRD defines a comprehensive plan to implement aiml038_personal_knowledge_base_chatbot using state-of-the-art RAG techniques, secure architecture, and scalable deployment to achieve high accuracy (>90% retrieval recall), low latency (<500ms retrieval, <2s median E2E), and strong reliability (99.5% uptime) while ensuring privacy, usability, and extensibility for diverse users and developers.
+This PRD defines a comprehensive plan to implement Aiml038_Personal_Knowledge_Base_Chatbot using state-of-the-art RAG techniques, secure architecture, and scalable deployment to achieve high accuracy (>90% retrieval recall), low latency (<500ms retrieval, <2s median E2E), and strong reliability (99.5% uptime) while ensuring privacy, usability, and extensibility for diverse users and developers.

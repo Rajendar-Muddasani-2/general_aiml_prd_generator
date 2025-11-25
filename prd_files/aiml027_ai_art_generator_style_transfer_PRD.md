@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / # aiml027_ai_art_generator_style_transfer
+# Product Requirements Document (PRD)
+# `Aiml027_Ai_Art_Generator_Style_Transfer`
 
 Project ID: aiml027  
 Category: Computer Vision, Generative AI, Style Transfer  

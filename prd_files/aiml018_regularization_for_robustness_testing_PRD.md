@@ -1,4 +1,5 @@
-# Product Requirements Document (PRD) / `aiml018_regularization_for_robustness_testing`
+# Product Requirements Document (PRD)
+# `Aiml018_Regularization_For_Robustness_Testing`
 
 Project ID: aiml018  
 Category: AI/ML Platform - Robustness & Regularization  
@@ -8,7 +9,7 @@ Last Updated: 2025-11-25
 
 ## 1. Overview
 ### 1.1 Executive Summary
-aiml018_regularization_for_robustness_testing is a platform and SDK to make ML models more robust and reliable through standardized regularization recipes and comprehensive robustness testing. It provides pluggable training regularizers (e.g., Mixup, TRADES, SAM, dropout), an evaluation harness (AutoAttack, corruption benchmarks, OOD detection, calibration), extensible APIs, a cloud-deployable service, and a UI to design, launch, compare, and report on robustness experiments across vision, NLP, and tabular models.
+Aiml018_Regularization_For_Robustness_Testing is a platform and SDK to make ML models more robust and reliable through standardized regularization recipes and comprehensive robustness testing. It provides pluggable training regularizers (e.g., Mixup, TRADES, SAM, dropout), an evaluation harness (AutoAttack, corruption benchmarks, OOD detection, calibration), extensible APIs, a cloud-deployable service, and a UI to design, launch, compare, and report on robustness experiments across vision, NLP, and tabular models.
 
 ### 1.2 Document Purpose
 This PRD specifies product scope, requirements, architecture, APIs, UI/UX, data model, testing, deployment, and KPIs to guide engineering, product, design, and ops to deliver a production-ready system.

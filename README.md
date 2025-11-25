@@ -2,6 +2,13 @@
 
 Automated PRD (Product Requirements Document) generation system for **General AI/ML** projects using AI agents powered by CrewAI and GPT-5.
 
+## 🌿 Branch Strategy
+
+- **`main`**: Stable, production-ready version with all 45 PRDs, pre-built vectorstore, and validated fixes
+- **`development`**: Active development branch for new features, updates, and experiments
+
+💡 **Clone the development branch** for contributing: `git clone -b development https://github.com/Rajendar-Muddasani-2/general_aiml_prd_generator.git`
+
 ## 🎯 Overview
 
 This system generates comprehensive PRDs for general AI/ML projects including LLMs, NLP, computer vision, ML platforms, and AI applications. Each PRD includes 22 detailed sections covering everything from executive summary to deployment strategy.

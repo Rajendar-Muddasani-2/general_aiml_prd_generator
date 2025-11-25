@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# API Keys & Secrets
+config.yaml
+scripts/config.yaml
+*.env
+.env
+.env.*
+secrets.yaml
+
+# Logs
+*.log
+logs/
+scripts/*.log
+
+# Vector Store (can be regenerated)
+vectorstore/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+temp/
+tmp/

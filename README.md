@@ -92,11 +92,26 @@ Expected time: ~5-7 minutes per PRD
 ## 📊 Current Status
 
 - **Total Projects**: 45
-- **Completed**: 8 PRDs
-- **Open**: 37 PRDs
-- **Contaminated**: 0 (auto-deleted during generation)
+- **Completed**: 45 PRDs ✅
+- **Vectorstore**: Pre-built with 50 chunks from sample PRDs
 
-Check `general_aiml_project_list.md` for detailed status.
+Check `general_aiml_project_list.md` for detailed project list.
+
+## 📦 Pre-built Vectorstore
+
+This repository includes a **pre-built vectorstore** containing embeddings from clean sample PRDs:
+
+- 📊 **50 chunks** of general AI/ML domain knowledge
+- 🚀 **Instant startup** - no need to rebuild on first run
+- 🔄 **1.6MB** of contextualized PRD patterns
+- 🛡️ **Contamination-free** - built from `sample_prds/` not `prd_files/`
+
+The vectorstore helps the AI agents:
+- Learn from existing PRD structures
+- Maintain consistent AI/ML terminology
+- Avoid semiconductor contamination
+
+**Note**: This uses `sample_prds/` intentionally to ensure zero semiconductor terminology leakage.
 
 ## 🔍 How It Works
 
